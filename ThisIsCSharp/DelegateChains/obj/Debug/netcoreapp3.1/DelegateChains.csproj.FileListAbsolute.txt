@@ -1,0 +1,11 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateChains\bin\Debug\netcoreapp3.1\DelegateChains.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateChains\bin\Debug\netcoreapp3.1\DelegateChains.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateChains\bin\Debug\netcoreapp3.1\DelegateChains.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateChains\bin\Debug\netcoreapp3.1\DelegateChains.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateChains\bin\Debug\netcoreapp3.1\DelegateChains.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateChains\bin\Debug\netcoreapp3.1\DelegateChains.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateChains\obj\Debug\netcoreapp3.1\DelegateChains.csprojAssemblyReference.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateChains\obj\Debug\netcoreapp3.1\DelegateChains.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateChains\obj\Debug\netcoreapp3.1\DelegateChains.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateChains\obj\Debug\netcoreapp3.1\DelegateChains.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateChains\obj\Debug\netcoreapp3.1\DelegateChains.pdb

@@ -1,0 +1,11 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AnonymousMethod\bin\Debug\netcoreapp3.1\AnonymousMethod.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AnonymousMethod\bin\Debug\netcoreapp3.1\AnonymousMethod.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AnonymousMethod\bin\Debug\netcoreapp3.1\AnonymousMethod.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AnonymousMethod\bin\Debug\netcoreapp3.1\AnonymousMethod.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AnonymousMethod\bin\Debug\netcoreapp3.1\AnonymousMethod.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AnonymousMethod\bin\Debug\netcoreapp3.1\AnonymousMethod.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AnonymousMethod\obj\Debug\netcoreapp3.1\AnonymousMethod.csprojAssemblyReference.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AnonymousMethod\obj\Debug\netcoreapp3.1\AnonymousMethod.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AnonymousMethod\obj\Debug\netcoreapp3.1\AnonymousMethod.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AnonymousMethod\obj\Debug\netcoreapp3.1\AnonymousMethod.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AnonymousMethod\obj\Debug\netcoreapp3.1\AnonymousMethod.pdb
