@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2019\\11.GitProjects\\CSharp-Training\\ThisIsCSharp\\UsingCallback\\UsingCallback.csproj",
-      "projectName": "UsingCallback",
-      "projectPath": "D:\\2019\\11.GitProjects\\CSharp-Training\\ThisIsCSharp\\UsingCallback\\UsingCallback.csproj",
+      "projectUniqueName": "D:\\2019\\11.GitProjects\\CSharp-Training\\ThisIsCSharp\\GenericDelegate\\GenericDelegate.csproj",
+      "projectName": "GenericDelegate",
+      "projectPath": "D:\\2019\\11.GitProjects\\CSharp-Training\\ThisIsCSharp\\GenericDelegate\\GenericDelegate.csproj",
       "packagesPath": "C:\\Users\\legod\\.nuget\\packages\\",
-      "outputPath": "D:\\2019\\11.GitProjects\\CSharp-Training\\ThisIsCSharp\\UsingCallback\\obj\\",
+      "outputPath": "D:\\2019\\11.GitProjects\\CSharp-Training\\ThisIsCSharp\\GenericDelegate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\legod\\AppData\\Roaming\\NuGet\\NuGet.Config",

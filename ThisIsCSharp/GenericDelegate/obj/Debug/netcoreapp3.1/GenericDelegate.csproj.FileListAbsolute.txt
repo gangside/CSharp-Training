@@ -1,0 +1,11 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GenericDelegate\bin\Debug\netcoreapp3.1\GenericDelegate.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.csprojAssemblyReference.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GenericDelegate\obj\Debug\netcoreapp3.1\GenericDelegate.pdb

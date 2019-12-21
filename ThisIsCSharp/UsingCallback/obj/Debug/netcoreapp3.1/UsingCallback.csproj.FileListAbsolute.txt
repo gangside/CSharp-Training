@@ -1,0 +1,11 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingCallback\bin\Debug\netcoreapp3.1\UsingCallback.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingCallback\bin\Debug\netcoreapp3.1\UsingCallback.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingCallback\bin\Debug\netcoreapp3.1\UsingCallback.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingCallback\bin\Debug\netcoreapp3.1\UsingCallback.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingCallback\bin\Debug\netcoreapp3.1\UsingCallback.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingCallback\bin\Debug\netcoreapp3.1\UsingCallback.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingCallback\obj\Debug\netcoreapp3.1\UsingCallback.csprojAssemblyReference.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingCallback\obj\Debug\netcoreapp3.1\UsingCallback.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingCallback\obj\Debug\netcoreapp3.1\UsingCallback.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingCallback\obj\Debug\netcoreapp3.1\UsingCallback.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingCallback\obj\Debug\netcoreapp3.1\UsingCallback.pdb
