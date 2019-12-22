@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingCallback", "UsingCallb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericDelegate", "GenericDelegate\GenericDelegate.csproj", "{D2465339-A36C-4383-918C-B60EF7113618}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateChains", "DelegateChains\DelegateChains.csproj", "{53E6D1E3-A1D5-4DF5-A908-8057C68D2993}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateChains", "DelegateChains\DelegateChains.csproj", "{53E6D1E3-A1D5-4DF5-A908-8057C68D2993}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousMethod", "AnonymousMethod\AnonymousMethod.csproj", "{644C996B-D80D-4549-8287-32A774AE787A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousMethod", "AnonymousMethod\AnonymousMethod.csproj", "{644C996B-D80D-4549-8287-32A774AE787A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventPractice", "EventPractice\EventPractice.csproj", "{C0BED4F5-F865-4B74-AB15-3D9BEAA18677}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{644C996B-D80D-4549-8287-32A774AE787A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{644C996B-D80D-4549-8287-32A774AE787A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{644C996B-D80D-4549-8287-32A774AE787A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BED4F5-F865-4B74-AB15-3D9BEAA18677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BED4F5-F865-4B74-AB15-3D9BEAA18677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BED4F5-F865-4B74-AB15-3D9BEAA18677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BED4F5-F865-4B74-AB15-3D9BEAA18677}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.pdb
