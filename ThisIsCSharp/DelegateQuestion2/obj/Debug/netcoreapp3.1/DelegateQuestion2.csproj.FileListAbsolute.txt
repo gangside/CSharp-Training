@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\bin\Debug\netcoreapp3.1\DelegateQuestion2.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\bin\Debug\netcoreapp3.1\DelegateQuestion2.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\bin\Debug\netcoreapp3.1\DelegateQuestion2.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\bin\Debug\netcoreapp3.1\DelegateQuestion2.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\bin\Debug\netcoreapp3.1\DelegateQuestion2.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\bin\Debug\netcoreapp3.1\DelegateQuestion2.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\obj\Debug\netcoreapp3.1\DelegateQuestion2.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\obj\Debug\netcoreapp3.1\DelegateQuestion2.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\obj\Debug\netcoreapp3.1\DelegateQuestion2.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\obj\Debug\netcoreapp3.1\DelegateQuestion2.pdb
