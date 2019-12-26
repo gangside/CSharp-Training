@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ActionTest\bin\Debug\netcoreapp3.1\ActionTest.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ActionTest\bin\Debug\netcoreapp3.1\ActionTest.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ActionTest\bin\Debug\netcoreapp3.1\ActionTest.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ActionTest\bin\Debug\netcoreapp3.1\ActionTest.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ActionTest\bin\Debug\netcoreapp3.1\ActionTest.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ActionTest\bin\Debug\netcoreapp3.1\ActionTest.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ActionTest\obj\Debug\netcoreapp3.1\ActionTest.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ActionTest\obj\Debug\netcoreapp3.1\ActionTest.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ActionTest\obj\Debug\netcoreapp3.1\ActionTest.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ActionTest\obj\Debug\netcoreapp3.1\ActionTest.pdb

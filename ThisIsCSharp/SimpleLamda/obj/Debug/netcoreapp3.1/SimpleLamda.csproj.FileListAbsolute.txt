@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\SimpleLamda\bin\Debug\netcoreapp3.1\SimpleLamda.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\SimpleLamda\bin\Debug\netcoreapp3.1\SimpleLamda.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\SimpleLamda\bin\Debug\netcoreapp3.1\SimpleLamda.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\SimpleLamda\bin\Debug\netcoreapp3.1\SimpleLamda.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\SimpleLamda\bin\Debug\netcoreapp3.1\SimpleLamda.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\SimpleLamda\bin\Debug\netcoreapp3.1\SimpleLamda.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\SimpleLamda\obj\Debug\netcoreapp3.1\SimpleLamda.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\SimpleLamda\obj\Debug\netcoreapp3.1\SimpleLamda.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\SimpleLamda\obj\Debug\netcoreapp3.1\SimpleLamda.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\SimpleLamda\obj\Debug\netcoreapp3.1\SimpleLamda.pdb

@@ -8,3 +8,4 @@ D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\obj\Debug\
 D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\obj\Debug\netcoreapp3.1\DelegateQuestion2.AssemblyInfo.cs
 D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\obj\Debug\netcoreapp3.1\DelegateQuestion2.dll
 D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\obj\Debug\netcoreapp3.1\DelegateQuestion2.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DelegateQuestion2\obj\Debug\netcoreapp3.1\DelegateQuestion2.csprojAssemblyReference.cache

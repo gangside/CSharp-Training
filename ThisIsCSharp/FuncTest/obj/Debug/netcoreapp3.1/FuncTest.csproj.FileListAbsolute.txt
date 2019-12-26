@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\FuncTest\bin\Debug\netcoreapp3.1\FuncTest.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\FuncTest\bin\Debug\netcoreapp3.1\FuncTest.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\FuncTest\bin\Debug\netcoreapp3.1\FuncTest.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\FuncTest\bin\Debug\netcoreapp3.1\FuncTest.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\FuncTest\bin\Debug\netcoreapp3.1\FuncTest.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\FuncTest\bin\Debug\netcoreapp3.1\FuncTest.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\FuncTest\obj\Debug\netcoreapp3.1\FuncTest.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\FuncTest\obj\Debug\netcoreapp3.1\FuncTest.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\FuncTest\obj\Debug\netcoreapp3.1\FuncTest.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\FuncTest\obj\Debug\netcoreapp3.1\FuncTest.pdb

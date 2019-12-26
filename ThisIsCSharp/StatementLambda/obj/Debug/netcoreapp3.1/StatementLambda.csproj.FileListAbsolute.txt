@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\StatementLambda\bin\Debug\netcoreapp3.1\StatementLambda.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\StatementLambda\bin\Debug\netcoreapp3.1\StatementLambda.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\StatementLambda\bin\Debug\netcoreapp3.1\StatementLambda.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\StatementLambda\bin\Debug\netcoreapp3.1\StatementLambda.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\StatementLambda\bin\Debug\netcoreapp3.1\StatementLambda.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\StatementLambda\bin\Debug\netcoreapp3.1\StatementLambda.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\StatementLambda\obj\Debug\netcoreapp3.1\StatementLambda.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\StatementLambda\obj\Debug\netcoreapp3.1\StatementLambda.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\StatementLambda\obj\Debug\netcoreapp3.1\StatementLambda.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\StatementLambda\obj\Debug\netcoreapp3.1\StatementLambda.pdb
