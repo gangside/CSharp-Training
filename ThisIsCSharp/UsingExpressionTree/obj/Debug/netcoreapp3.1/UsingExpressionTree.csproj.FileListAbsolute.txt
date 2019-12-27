@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingExpressionTree\bin\Debug\netcoreapp3.1\UsingExpressionTree.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingExpressionTree\bin\Debug\netcoreapp3.1\UsingExpressionTree.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingExpressionTree\bin\Debug\netcoreapp3.1\UsingExpressionTree.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingExpressionTree\bin\Debug\netcoreapp3.1\UsingExpressionTree.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingExpressionTree\bin\Debug\netcoreapp3.1\UsingExpressionTree.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingExpressionTree\bin\Debug\netcoreapp3.1\UsingExpressionTree.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingExpressionTree\obj\Debug\netcoreapp3.1\UsingExpressionTree.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingExpressionTree\obj\Debug\netcoreapp3.1\UsingExpressionTree.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingExpressionTree\obj\Debug\netcoreapp3.1\UsingExpressionTree.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\UsingExpressionTree\obj\Debug\netcoreapp3.1\UsingExpressionTree.pdb
