@@ -8,3 +8,4 @@ D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\bin\D
 D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\bin\Debug\netcoreapp3.1\ExpressionBodiesMember.pdb
 D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\obj\Debug\netcoreapp3.1\ExpressionBodiesMember.dll
 D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\obj\Debug\netcoreapp3.1\ExpressionBodiesMember.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\obj\Debug\netcoreapp3.1\ExpressionBodiesMember.csprojAssemblyReference.cache

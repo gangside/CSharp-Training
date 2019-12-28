@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\Chapter14_Q\bin\Debug\netcoreapp3.1\Chapter14_Q.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\Chapter14_Q\bin\Debug\netcoreapp3.1\Chapter14_Q.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\Chapter14_Q\bin\Debug\netcoreapp3.1\Chapter14_Q.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\Chapter14_Q\bin\Debug\netcoreapp3.1\Chapter14_Q.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\Chapter14_Q\bin\Debug\netcoreapp3.1\Chapter14_Q.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\Chapter14_Q\bin\Debug\netcoreapp3.1\Chapter14_Q.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\Chapter14_Q\obj\Debug\netcoreapp3.1\Chapter14_Q.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\Chapter14_Q\obj\Debug\netcoreapp3.1\Chapter14_Q.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\Chapter14_Q\obj\Debug\netcoreapp3.1\Chapter14_Q.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\Chapter14_Q\obj\Debug\netcoreapp3.1\Chapter14_Q.pdb
