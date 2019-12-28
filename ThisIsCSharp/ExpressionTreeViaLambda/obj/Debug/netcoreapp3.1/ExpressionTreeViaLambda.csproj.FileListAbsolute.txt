@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionTreeViaLambda\bin\Debug\netcoreapp3.1\ExpressionTreeViaLambda.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionTreeViaLambda\bin\Debug\netcoreapp3.1\ExpressionTreeViaLambda.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionTreeViaLambda\bin\Debug\netcoreapp3.1\ExpressionTreeViaLambda.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionTreeViaLambda\bin\Debug\netcoreapp3.1\ExpressionTreeViaLambda.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionTreeViaLambda\bin\Debug\netcoreapp3.1\ExpressionTreeViaLambda.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionTreeViaLambda\bin\Debug\netcoreapp3.1\ExpressionTreeViaLambda.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionTreeViaLambda\obj\Debug\netcoreapp3.1\ExpressionTreeViaLambda.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionTreeViaLambda\obj\Debug\netcoreapp3.1\ExpressionTreeViaLambda.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionTreeViaLambda\obj\Debug\netcoreapp3.1\ExpressionTreeViaLambda.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionTreeViaLambda\obj\Debug\netcoreapp3.1\ExpressionTreeViaLambda.pdb

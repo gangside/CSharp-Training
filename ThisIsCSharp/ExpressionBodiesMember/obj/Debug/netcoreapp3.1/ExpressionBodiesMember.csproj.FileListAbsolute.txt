@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\obj\Debug\netcoreapp3.1\ExpressionBodiesMember.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\obj\Debug\netcoreapp3.1\ExpressionBodiesMember.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\bin\Debug\netcoreapp3.1\ExpressionBodiesMember.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\bin\Debug\netcoreapp3.1\ExpressionBodiesMember.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\bin\Debug\netcoreapp3.1\ExpressionBodiesMember.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\bin\Debug\netcoreapp3.1\ExpressionBodiesMember.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\bin\Debug\netcoreapp3.1\ExpressionBodiesMember.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\bin\Debug\netcoreapp3.1\ExpressionBodiesMember.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\obj\Debug\netcoreapp3.1\ExpressionBodiesMember.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ExpressionBodiesMember\obj\Debug\netcoreapp3.1\ExpressionBodiesMember.pdb
