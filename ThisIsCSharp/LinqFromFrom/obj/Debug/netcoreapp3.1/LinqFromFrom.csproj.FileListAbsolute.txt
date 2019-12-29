@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFromFrom\bin\Debug\netcoreapp3.1\LinqFromFrom.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFromFrom\bin\Debug\netcoreapp3.1\LinqFromFrom.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFromFrom\bin\Debug\netcoreapp3.1\LinqFromFrom.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFromFrom\bin\Debug\netcoreapp3.1\LinqFromFrom.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFromFrom\bin\Debug\netcoreapp3.1\LinqFromFrom.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFromFrom\bin\Debug\netcoreapp3.1\LinqFromFrom.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFromFrom\obj\Debug\netcoreapp3.1\LinqFromFrom.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFromFrom\obj\Debug\netcoreapp3.1\LinqFromFrom.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFromFrom\obj\Debug\netcoreapp3.1\LinqFromFrom.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFromFrom\obj\Debug\netcoreapp3.1\LinqFromFrom.pdb

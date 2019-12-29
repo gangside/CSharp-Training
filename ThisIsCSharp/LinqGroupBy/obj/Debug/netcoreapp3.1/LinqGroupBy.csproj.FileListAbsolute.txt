@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqGroupBy\bin\Debug\netcoreapp3.1\LinqGroupBy.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqGroupBy\bin\Debug\netcoreapp3.1\LinqGroupBy.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqGroupBy\bin\Debug\netcoreapp3.1\LinqGroupBy.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqGroupBy\bin\Debug\netcoreapp3.1\LinqGroupBy.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqGroupBy\bin\Debug\netcoreapp3.1\LinqGroupBy.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqGroupBy\bin\Debug\netcoreapp3.1\LinqGroupBy.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqGroupBy\obj\Debug\netcoreapp3.1\LinqGroupBy.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqGroupBy\obj\Debug\netcoreapp3.1\LinqGroupBy.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqGroupBy\obj\Debug\netcoreapp3.1\LinqGroupBy.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqGroupBy\obj\Debug\netcoreapp3.1\LinqGroupBy.pdb
