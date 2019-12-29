@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqSimpleExample\bin\Debug\netcoreapp3.1\LinqSimpleExample.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqSimpleExample\bin\Debug\netcoreapp3.1\LinqSimpleExample.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqSimpleExample\bin\Debug\netcoreapp3.1\LinqSimpleExample.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqSimpleExample\bin\Debug\netcoreapp3.1\LinqSimpleExample.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqSimpleExample\bin\Debug\netcoreapp3.1\LinqSimpleExample.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqSimpleExample\bin\Debug\netcoreapp3.1\LinqSimpleExample.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqSimpleExample\obj\Debug\netcoreapp3.1\LinqSimpleExample.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqSimpleExample\obj\Debug\netcoreapp3.1\LinqSimpleExample.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqSimpleExample\obj\Debug\netcoreapp3.1\LinqSimpleExample.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqSimpleExample\obj\Debug\netcoreapp3.1\LinqSimpleExample.pdb

@@ -31,7 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionTreeViaLambda", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionBodiesMember", "ExpressionBodiesMember\ExpressionBodiesMember.csproj", "{F08CBC5E-13EC-48FD-921C-5B629F8C4E70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter14_Q", "Chapter14_Q\Chapter14_Q.csproj", "{9F200DF5-C561-42F8-955B-336DBC5F7BB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter14_Q", "Chapter14_Q\Chapter14_Q.csproj", "{9F200DF5-C561-42F8-955B-336DBC5F7BB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqFrom", "LinqFrom\LinqFrom.csproj", "{FD0D2CAB-92E0-4153-8B15-E2B85C99ED08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqSimpleExample", "LinqSimpleExample\LinqSimpleExample.csproj", "{6A51FE68-5F95-4435-A98F-CB4F4D5C1F52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{9F200DF5-C561-42F8-955B-336DBC5F7BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F200DF5-C561-42F8-955B-336DBC5F7BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F200DF5-C561-42F8-955B-336DBC5F7BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD0D2CAB-92E0-4153-8B15-E2B85C99ED08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0D2CAB-92E0-4153-8B15-E2B85C99ED08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0D2CAB-92E0-4153-8B15-E2B85C99ED08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0D2CAB-92E0-4153-8B15-E2B85C99ED08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A51FE68-5F95-4435-A98F-CB4F4D5C1F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A51FE68-5F95-4435-A98F-CB4F4D5C1F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A51FE68-5F95-4435-A98F-CB4F4D5C1F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A51FE68-5F95-4435-A98F-CB4F4D5C1F52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

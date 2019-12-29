@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFrom\bin\Debug\netcoreapp3.1\LinqFrom.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFrom\bin\Debug\netcoreapp3.1\LinqFrom.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFrom\bin\Debug\netcoreapp3.1\LinqFrom.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFrom\bin\Debug\netcoreapp3.1\LinqFrom.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFrom\bin\Debug\netcoreapp3.1\LinqFrom.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFrom\bin\Debug\netcoreapp3.1\LinqFrom.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFrom\obj\Debug\netcoreapp3.1\LinqFrom.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFrom\obj\Debug\netcoreapp3.1\LinqFrom.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFrom\obj\Debug\netcoreapp3.1\LinqFrom.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqFrom\obj\Debug\netcoreapp3.1\LinqFrom.pdb

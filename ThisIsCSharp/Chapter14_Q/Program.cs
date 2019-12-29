@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Chapter14_Q1Q2
+namespace Chapter14_Q1Q2        
 {
     class Program
     {
