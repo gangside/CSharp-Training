@@ -1,0 +1,11 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqJoin\bin\Debug\netcoreapp3.1\LinqJoin.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqJoin\bin\Debug\netcoreapp3.1\LinqJoin.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqJoin\bin\Debug\netcoreapp3.1\LinqJoin.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqJoin\bin\Debug\netcoreapp3.1\LinqJoin.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqJoin\bin\Debug\netcoreapp3.1\LinqJoin.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqJoin\bin\Debug\netcoreapp3.1\LinqJoin.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqJoin\obj\Debug\netcoreapp3.1\LinqJoin.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqJoin\obj\Debug\netcoreapp3.1\LinqJoin.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqJoin\obj\Debug\netcoreapp3.1\LinqJoin.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqJoin\obj\Debug\netcoreapp3.1\LinqJoin.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqJoin\obj\Debug\netcoreapp3.1\LinqJoin.csprojAssemblyReference.cache
