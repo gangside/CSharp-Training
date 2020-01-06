@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqMinMaxAverage\bin\Debug\netcoreapp3.1\LinqMinMaxAverage.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqMinMaxAverage\bin\Debug\netcoreapp3.1\LinqMinMaxAverage.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqMinMaxAverage\bin\Debug\netcoreapp3.1\LinqMinMaxAverage.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqMinMaxAverage\bin\Debug\netcoreapp3.1\LinqMinMaxAverage.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqMinMaxAverage\bin\Debug\netcoreapp3.1\LinqMinMaxAverage.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqMinMaxAverage\bin\Debug\netcoreapp3.1\LinqMinMaxAverage.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqMinMaxAverage\obj\Debug\netcoreapp3.1\LinqMinMaxAverage.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqMinMaxAverage\obj\Debug\netcoreapp3.1\LinqMinMaxAverage.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqMinMaxAverage\obj\Debug\netcoreapp3.1\LinqMinMaxAverage.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\LinqMinMaxAverage\obj\Debug\netcoreapp3.1\LinqMinMaxAverage.pdb

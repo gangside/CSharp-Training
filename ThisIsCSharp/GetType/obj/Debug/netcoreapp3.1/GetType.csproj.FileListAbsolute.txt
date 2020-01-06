@@ -1,0 +1,11 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GetType\bin\Debug\netcoreapp3.1\GetType.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GetType\bin\Debug\netcoreapp3.1\GetType.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GetType\bin\Debug\netcoreapp3.1\GetType.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GetType\bin\Debug\netcoreapp3.1\GetType.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GetType\bin\Debug\netcoreapp3.1\GetType.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GetType\bin\Debug\netcoreapp3.1\GetType.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GetType\obj\Debug\netcoreapp3.1\GetType.csprojAssemblyReference.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GetType\obj\Debug\netcoreapp3.1\GetType.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GetType\obj\Debug\netcoreapp3.1\GetType.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GetType\obj\Debug\netcoreapp3.1\GetType.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\GetType\obj\Debug\netcoreapp3.1\GetType.pdb

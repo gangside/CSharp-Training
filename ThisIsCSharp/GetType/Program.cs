@@ -1,0 +1,87 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Reflection;
+
+namespace GetType
+{
+    class Program
+    {
+        static void PrintInterfaces(Type type)
+        {
+            Console.WriteLine("-------- Interfaces --------");
+
+            Type[] interfaces = type.GetInterfaces();
+            foreach (Type i in interfaces)
+            {
+                Console.WriteLine("Name:{0}", i.Name);
+            }
+            Console.WriteLine();
+        }
+
+        static void PrintFields(Type type)
+        {
+            Console.WriteLine("-------- Fields --------");
+
+            FieldInfo[] fields = type.GetFields(
+                BindingFlags.NonPublic |
+                BindingFlags.Public |
+                BindingFlags.Static |
+                BindingFlags.Instance);
+
+            foreach (FieldInfo f in fields)
+            {
+                String accessLevel = "protected";
+                if (f.IsPublic) accessLevel = "public";
+                else if (f.IsPrivate) accessLevel = "private";
+
+                Console.WriteLine("Access:{0}, Type:{1}, Name:{2}", accessLevel, f.FieldType.Name, f.Name);
+            }
+        }
+
+        static void PrintMethods(Type type)
+        {
+            Console.WriteLine("-------- Methods --------");
+
+            MethodInfo[] methods = type.GetMethods();
+            foreach (MethodInfo method in methods)
+            {
+                Console.Write("Type:{0}, Name:{1}, Parameter:", method.ReturnType.Name, method.Name);
+                ParameterInfo[] args = method.GetParameters();
+
+                for (int i = 0; i < args.Length; i++)
+                {
+                    Console.Write("{0}", args[i].ParameterType.Name);
+                    if (i < args.Length - 1)
+                        Console.Write(", ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+        }
+
+        static void PrintProperties(Type type)
+        {
+            Console.WriteLine("-------- Properties --------");
+
+            PropertyInfo[] properties = type.GetProperties();
+
+            foreach (PropertyInfo property in properties)
+            {
+                Console.WriteLine("Type:{0}, Name{1}", property.PropertyType.Name, property.Name);
+            }
+            Console.WriteLine();
+        }
+
+        static void Main(string[] args)
+        {
+            int a = 0;
+            Type type = a.GetType();
+
+            PrintInterfaces(type);
+            PrintFields(type);
+            PrintMethods(type);
+            PrintProperties(type);
+        }
+    }
+}

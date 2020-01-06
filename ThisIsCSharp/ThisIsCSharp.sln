@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqGroupBy", "LinqGroupBy\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqJoin", "LinqJoin\LinqJoin.csproj", "{18B81004-441E-4F35-BFBB-4539A4B92E9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqSimpleExample2", "LinqSimpleExample2\LinqSimpleExample2.csproj", "{5B29E991-E043-4919-A6F9-08ECD98DDD9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqSimpleExample2", "LinqSimpleExample2\LinqSimpleExample2.csproj", "{5B29E991-E043-4919-A6F9-08ECD98DDD9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetType", "GetType\GetType.csproj", "{81BD6D25-B849-4616-BF10-4C8833182B5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{5B29E991-E043-4919-A6F9-08ECD98DDD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B29E991-E043-4919-A6F9-08ECD98DDD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B29E991-E043-4919-A6F9-08ECD98DDD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81BD6D25-B849-4616-BF10-4C8833182B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BD6D25-B849-4616-BF10-4C8833182B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BD6D25-B849-4616-BF10-4C8833182B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BD6D25-B849-4616-BF10-4C8833182B5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
