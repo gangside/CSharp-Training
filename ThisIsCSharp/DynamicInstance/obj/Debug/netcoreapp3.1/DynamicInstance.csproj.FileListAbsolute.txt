@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DynamicInstance\bin\Debug\netcoreapp3.1\DynamicInstance.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DynamicInstance\bin\Debug\netcoreapp3.1\DynamicInstance.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DynamicInstance\bin\Debug\netcoreapp3.1\DynamicInstance.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DynamicInstance\bin\Debug\netcoreapp3.1\DynamicInstance.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DynamicInstance\bin\Debug\netcoreapp3.1\DynamicInstance.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DynamicInstance\bin\Debug\netcoreapp3.1\DynamicInstance.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DynamicInstance\obj\Debug\netcoreapp3.1\DynamicInstance.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DynamicInstance\obj\Debug\netcoreapp3.1\DynamicInstance.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DynamicInstance\obj\Debug\netcoreapp3.1\DynamicInstance.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DynamicInstance\obj\Debug\netcoreapp3.1\DynamicInstance.pdb
