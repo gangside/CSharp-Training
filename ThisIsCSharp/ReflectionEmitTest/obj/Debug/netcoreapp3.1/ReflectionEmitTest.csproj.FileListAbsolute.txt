@@ -1,0 +1,11 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ReflectionEmitTest\bin\Debug\netcoreapp3.1\ReflectionEmitTest.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ReflectionEmitTest\bin\Debug\netcoreapp3.1\ReflectionEmitTest.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ReflectionEmitTest\bin\Debug\netcoreapp3.1\ReflectionEmitTest.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ReflectionEmitTest\bin\Debug\netcoreapp3.1\ReflectionEmitTest.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ReflectionEmitTest\bin\Debug\netcoreapp3.1\ReflectionEmitTest.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ReflectionEmitTest\bin\Debug\netcoreapp3.1\ReflectionEmitTest.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ReflectionEmitTest\obj\Debug\netcoreapp3.1\ReflectionEmitTest.csprojAssemblyReference.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ReflectionEmitTest\obj\Debug\netcoreapp3.1\ReflectionEmitTest.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ReflectionEmitTest\obj\Debug\netcoreapp3.1\ReflectionEmitTest.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ReflectionEmitTest\obj\Debug\netcoreapp3.1\ReflectionEmitTest.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\ReflectionEmitTest\obj\Debug\netcoreapp3.1\ReflectionEmitTest.pdb

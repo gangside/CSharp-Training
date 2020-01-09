@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqSimpleExample2", "LinqS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetType", "GetType\GetType.csproj", "{81BD6D25-B849-4616-BF10-4C8833182B5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicInstance", "DynamicInstance\DynamicInstance.csproj", "{A6A5C9F6-823C-4F51-8461-644FE70005D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicInstance", "DynamicInstance\DynamicInstance.csproj", "{A6A5C9F6-823C-4F51-8461-644FE70005D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionEmitTest", "ReflectionEmitTest\ReflectionEmitTest.csproj", "{2EF416F7-73B0-4F35-BF86-0A40CAD1621D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{A6A5C9F6-823C-4F51-8461-644FE70005D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6A5C9F6-823C-4F51-8461-644FE70005D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6A5C9F6-823C-4F51-8461-644FE70005D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF416F7-73B0-4F35-BF86-0A40CAD1621D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF416F7-73B0-4F35-BF86-0A40CAD1621D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF416F7-73B0-4F35-BF86-0A40CAD1621D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF416F7-73B0-4F35-BF86-0A40CAD1621D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
