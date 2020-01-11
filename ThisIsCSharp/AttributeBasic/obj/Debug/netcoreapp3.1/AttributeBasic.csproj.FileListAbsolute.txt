@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeBasic\bin\Debug\netcoreapp3.1\AttributeBasic.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeBasic\bin\Debug\netcoreapp3.1\AttributeBasic.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeBasic\bin\Debug\netcoreapp3.1\AttributeBasic.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeBasic\bin\Debug\netcoreapp3.1\AttributeBasic.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeBasic\bin\Debug\netcoreapp3.1\AttributeBasic.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeBasic\bin\Debug\netcoreapp3.1\AttributeBasic.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeBasic\obj\Debug\netcoreapp3.1\AttributeBasic.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeBasic\obj\Debug\netcoreapp3.1\AttributeBasic.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeBasic\obj\Debug\netcoreapp3.1\AttributeBasic.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeBasic\obj\Debug\netcoreapp3.1\AttributeBasic.pdb

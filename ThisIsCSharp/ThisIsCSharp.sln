@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetType", "GetType\GetType.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicInstance", "DynamicInstance\DynamicInstance.csproj", "{A6A5C9F6-823C-4F51-8461-644FE70005D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionEmitTest", "ReflectionEmitTest\ReflectionEmitTest.csproj", "{2EF416F7-73B0-4F35-BF86-0A40CAD1621D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionEmitTest", "ReflectionEmitTest\ReflectionEmitTest.csproj", "{2EF416F7-73B0-4F35-BF86-0A40CAD1621D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeBasic", "AttributeBasic\AttributeBasic.csproj", "{1A760CE6-C60E-405B-875B-AADD7C194B94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{2EF416F7-73B0-4F35-BF86-0A40CAD1621D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EF416F7-73B0-4F35-BF86-0A40CAD1621D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EF416F7-73B0-4F35-BF86-0A40CAD1621D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A760CE6-C60E-405B-875B-AADD7C194B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A760CE6-C60E-405B-875B-AADD7C194B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A760CE6-C60E-405B-875B-AADD7C194B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A760CE6-C60E-405B-875B-AADD7C194B94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
