@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeCallerInfo\bin\Debug\netcoreapp3.1\AttributeCallerInfo.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeCallerInfo\bin\Debug\netcoreapp3.1\AttributeCallerInfo.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeCallerInfo\bin\Debug\netcoreapp3.1\AttributeCallerInfo.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeCallerInfo\bin\Debug\netcoreapp3.1\AttributeCallerInfo.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeCallerInfo\bin\Debug\netcoreapp3.1\AttributeCallerInfo.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeCallerInfo\bin\Debug\netcoreapp3.1\AttributeCallerInfo.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeCallerInfo\obj\Debug\netcoreapp3.1\AttributeCallerInfo.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeCallerInfo\obj\Debug\netcoreapp3.1\AttributeCallerInfo.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeCallerInfo\obj\Debug\netcoreapp3.1\AttributeCallerInfo.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\AttributeCallerInfo\obj\Debug\netcoreapp3.1\AttributeCallerInfo.pdb

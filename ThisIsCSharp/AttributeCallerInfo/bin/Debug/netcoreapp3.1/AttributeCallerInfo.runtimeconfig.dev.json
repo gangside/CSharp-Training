@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\legod\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\legod\\.nuget\\packages"
+    ]
+  }
+}

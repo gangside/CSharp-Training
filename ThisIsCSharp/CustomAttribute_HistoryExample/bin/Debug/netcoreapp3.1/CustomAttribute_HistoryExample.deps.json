@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CustomAttribute_HistoryExample/1.0.0": {
+        "runtime": {
+          "CustomAttribute_HistoryExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomAttribute_HistoryExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
