@@ -1,0 +1,10 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DuckTyping\bin\Debug\netcoreapp3.1\DuckTyping.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DuckTyping\bin\Debug\netcoreapp3.1\DuckTyping.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DuckTyping\bin\Debug\netcoreapp3.1\DuckTyping.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DuckTyping\bin\Debug\netcoreapp3.1\DuckTyping.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DuckTyping\bin\Debug\netcoreapp3.1\DuckTyping.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DuckTyping\bin\Debug\netcoreapp3.1\DuckTyping.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DuckTyping\obj\Debug\netcoreapp3.1\DuckTyping.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DuckTyping\obj\Debug\netcoreapp3.1\DuckTyping.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DuckTyping\obj\Debug\netcoreapp3.1\DuckTyping.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\DuckTyping\obj\Debug\netcoreapp3.1\DuckTyping.pdb

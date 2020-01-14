@@ -53,9 +53,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionEmitTest", "Refle
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttributeBasic", "AttributeBasic\AttributeBasic.csproj", "{1A760CE6-C60E-405B-875B-AADD7C194B94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeCallerInfo", "AttributeCallerInfo\AttributeCallerInfo.csproj", "{FFC4DFAB-FF9F-4CD9-A8BC-366DD2E41EDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttributeCallerInfo", "AttributeCallerInfo\AttributeCallerInfo.csproj", "{FFC4DFAB-FF9F-4CD9-A8BC-366DD2E41EDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAttribute_HistoryExample", "CustomAttribute_HistoryExample\CustomAttribute_HistoryExample.csproj", "{1729B825-A8C5-4DAF-B5C3-16E5900930F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomAttribute_HistoryExample", "CustomAttribute_HistoryExample\CustomAttribute_HistoryExample.csproj", "{1729B825-A8C5-4DAF-B5C3-16E5900930F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckTyping", "DuckTyping\DuckTyping.csproj", "{553C9DFA-4EDE-4B5B-A62B-7A0D3803C523}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{1729B825-A8C5-4DAF-B5C3-16E5900930F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1729B825-A8C5-4DAF-B5C3-16E5900930F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1729B825-A8C5-4DAF-B5C3-16E5900930F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553C9DFA-4EDE-4B5B-A62B-7A0D3803C523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553C9DFA-4EDE-4B5B-A62B-7A0D3803C523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553C9DFA-4EDE-4B5B-A62B-7A0D3803C523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553C9DFA-4EDE-4B5B-A62B-7A0D3803C523}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
