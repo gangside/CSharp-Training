@@ -1,0 +1,14 @@
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\COMInterop\bin\Debug\netcoreapp3.1\COMInterop.exe
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\COMInterop\bin\Debug\netcoreapp3.1\COMInterop.deps.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\COMInterop\bin\Debug\netcoreapp3.1\COMInterop.runtimeconfig.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\COMInterop\bin\Debug\netcoreapp3.1\COMInterop.runtimeconfig.dev.json
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\COMInterop\bin\Debug\netcoreapp3.1\COMInterop.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\COMInterop\bin\Debug\netcoreapp3.1\COMInterop.pdb
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\COMInterop\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\COMInterop\obj\Debug\netcoreapp3.1\COMInterop.csprojAssemblyReference.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\COMInterop\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\COMInterop\obj\Debug\netcoreapp3.1\COMInterop.csproj.ResolveComReference.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\COMInterop\obj\Debug\netcoreapp3.1\COMInterop.AssemblyInfoInputs.cache
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\COMInterop\obj\Debug\netcoreapp3.1\COMInterop.AssemblyInfo.cs
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\COMInterop\obj\Debug\netcoreapp3.1\COMInterop.dll
+D:\2019\11.GitProjects\CSharp-Training\ThisIsCSharp\COMInterop\obj\Debug\netcoreapp3.1\COMInterop.pdb

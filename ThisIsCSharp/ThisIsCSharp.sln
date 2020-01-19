@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttributeCallerInfo", "Attr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomAttribute_HistoryExample", "CustomAttribute_HistoryExample\CustomAttribute_HistoryExample.csproj", "{1729B825-A8C5-4DAF-B5C3-16E5900930F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckTyping", "DuckTyping\DuckTyping.csproj", "{553C9DFA-4EDE-4B5B-A62B-7A0D3803C523}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DuckTyping", "DuckTyping\DuckTyping.csproj", "{553C9DFA-4EDE-4B5B-A62B-7A0D3803C523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMInterop", "COMInterop\COMInterop.csproj", "{8D9BBD22-C984-432A-B1E1-70DA44A6B9E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{553C9DFA-4EDE-4B5B-A62B-7A0D3803C523}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{553C9DFA-4EDE-4B5B-A62B-7A0D3803C523}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{553C9DFA-4EDE-4B5B-A62B-7A0D3803C523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D9BBD22-C984-432A-B1E1-70DA44A6B9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9BBD22-C984-432A-B1E1-70DA44A6B9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9BBD22-C984-432A-B1E1-70DA44A6B9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9BBD22-C984-432A-B1E1-70DA44A6B9E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
