@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29609.76
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingCallback", "UsingCallback\UsingCallback.csproj", "{45E0E6AA-0B4C-465F-82CF-4A70340653A5}"
 EndProject
@@ -59,7 +59,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomAttribute_HistoryExam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DuckTyping", "DuckTyping\DuckTyping.csproj", "{553C9DFA-4EDE-4B5B-A62B-7A0D3803C523}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMInterop", "COMInterop\COMInterop.csproj", "{8D9BBD22-C984-432A-B1E1-70DA44A6B9E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "COMInterop", "COMInterop\COMInterop.csproj", "{8D9BBD22-C984-432A-B1E1-70DA44A6B9E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoServer", "EchoServer\EchoServer.csproj", "{F362E9EE-41F9-4017-98C7-8583BD1BFA4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoClient", "EchoClient\EchoClient.csproj", "{5846CFDC-8C09-442E-A8BA-D79421433B09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +187,14 @@ Global
 		{8D9BBD22-C984-432A-B1E1-70DA44A6B9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D9BBD22-C984-432A-B1E1-70DA44A6B9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D9BBD22-C984-432A-B1E1-70DA44A6B9E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F362E9EE-41F9-4017-98C7-8583BD1BFA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F362E9EE-41F9-4017-98C7-8583BD1BFA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F362E9EE-41F9-4017-98C7-8583BD1BFA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F362E9EE-41F9-4017-98C7-8583BD1BFA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5846CFDC-8C09-442E-A8BA-D79421433B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5846CFDC-8C09-442E-A8BA-D79421433B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5846CFDC-8C09-442E-A8BA-D79421433B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5846CFDC-8C09-442E-A8BA-D79421433B09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

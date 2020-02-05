@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LinqMinMaxAvg",
-    "\\LinqMinMaxAvg2",
-    "\\ThisIsCSharp",
-    "\\ThisIsCSharp\\LinqQ1Q2"
+    "\\ThisIsCSharp"
   ],
-  "SelectedNode": "\\ThisIsCSharp\\ActionTest",
+  "SelectedNode": "\\ThisIsCSharp",
   "PreviewInSolutionExplorer": false
 }

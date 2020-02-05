@@ -1,0 +1,7 @@
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoServer\bin\Debug\EchoServer.exe.config
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoServer\bin\Debug\EchoServer.exe
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoServer\bin\Debug\EchoServer.pdb
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoServer\obj\Debug\EchoServer.csprojAssemblyReference.cache
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoServer\obj\Debug\EchoServer.exe
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoServer\obj\Debug\EchoServer.pdb
