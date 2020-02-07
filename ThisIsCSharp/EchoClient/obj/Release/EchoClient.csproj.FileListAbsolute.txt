@@ -1,0 +1,7 @@
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoClient\bin\Release\EchoClient.exe.config
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoClient\bin\Release\EchoClient.exe
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoClient\bin\Release\EchoClient.pdb
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoClient\obj\Release\EchoClient.csprojAssemblyReference.cache
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoClient\obj\Release\EchoClient.csproj.CoreCompileInputs.cache
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoClient\obj\Release\EchoClient.exe
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoClient\obj\Release\EchoClient.pdb

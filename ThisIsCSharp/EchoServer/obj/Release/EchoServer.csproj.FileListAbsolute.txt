@@ -1,0 +1,6 @@
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoServer\bin\Release\EchoServer.exe.config
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoServer\bin\Release\EchoServer.exe
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoServer\bin\Release\EchoServer.pdb
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoServer\obj\Release\EchoServer.csproj.CoreCompileInputs.cache
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoServer\obj\Release\EchoServer.exe
+D:\MY\MyGit\CSharp-Training\ThisIsCSharp\EchoServer\obj\Release\EchoServer.pdb

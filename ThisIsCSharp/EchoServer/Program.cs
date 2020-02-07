@@ -13,13 +13,13 @@ namespace EchoServer
     class Program
     {
         static void Main(string[] args) {
-            if (args.Length < 1) {
-                //Process
-                Console.WriteLine("사용법 : {0} <BindIP>", Process.GetCurrentProcess().ProcessName);
-                return;
-            }
+            //if (args.Length < 1) {
+            //    //Process
+            //    Console.WriteLine("사용법 : {0} <BindIP>", Process.GetCurrentProcess().ProcessName);
+            //    return;
+            //}
 
-            string bindIp = args[0];
+            string bindIp = "127.0.0.1";
             const int bindPort = 5425;
             TcpListener server = null;
 
@@ -47,9 +47,10 @@ namespace EchoServer
 
                         Console.WriteLine(String.Format("수신: {0}", data));
        
-                        byte[] msg = Encoding.Default.GetBytes(data);
+                        byte[] msg = Encoding.Default.GetBytes(Console.ReadLine());
+                        int msgLength = msg.Length;
                         stream.Write(msg, 0, msg.Length);
-                        Console.WriteLine("송신: {0}", data);
+                        Console.WriteLine("송신:[" + Encoding.Default.GetString(msg, 0, msgLength) + "]를 송신했습니다");
                     }
 
                     stream.Close();
